@@ -3,6 +3,6 @@ An automated data-driven framework designed to detect, track, and evaluate envir
 
 
 Team composition: 
-Lucian Ionut Airinei
-Soiman Vasile Cristian
-Nicolae Gramada
+-Lucian Ionut Airinei
+-Soiman Vasile Cristian
+-Nicolae Gramada
