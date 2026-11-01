@@ -6,3 +6,6 @@ Team composition:
 1. Lucian Ionut Airinei
 2. Soiman Vasile Cristian
 3. Nicolae Gramada
+
+
+ADAUGAM PE URMA DESCRIEREA INTREGULUI PIPELINE
